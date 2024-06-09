@@ -6,6 +6,9 @@
 стратегию инвестирования по логарифмическому
 критерию.  
 
+Ссылка на презнтацию в латехе:  
+https://ru.overleaf.com/read/hxvpkkwqcxwc#9e8f3a   
+
 Для набора работы ВКР по ГОСТ 7.32-2017 использовался шаблон:  
 https://www.overleaf.com/latex/templates/essay-template-itmo-rus/qfhzpzxstvvw
 
